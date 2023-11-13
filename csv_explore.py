@@ -4,7 +4,7 @@ import csv
 import time
 
 start = time.time()
-openai.api_key = "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"
+openai.api_key = "OPENAI API"
 
 # Define the path to your CSV file here
 input_csv_file_path = 'osfstorage-archive/Coded Queries.csv'
